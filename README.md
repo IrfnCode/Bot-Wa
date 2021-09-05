@@ -2,11 +2,11 @@
 <img src="https://avatars.githubusercontent.com/irfnadi" width="225" height="225"/>
 </p>
 <p align="center">
-<a href="#"><img title= "ZULI BOT" src="https://img.shields.io/badge/SenkuXZ BOT-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title= "ZULI BOT" src="https://img.shields.io/badge/ZULI BOT-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/SenkuXZ"><img title="Author" src="https://img.shields.io/badge/Author-Rapaa-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/irfnadi"><img title="Author" src="https://img.shields.io/badge/Author-Rapaa-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/SenkuXZ/followers"><img title="Followers" src="https://img.shields.io/github/followers/SenkuXZ?color=blue&style=flat-square"></a>

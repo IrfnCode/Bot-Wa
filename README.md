@@ -1,3 +1,5 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IrfnCode/Bot-Wa/)
+
 <p align="center">
 <img src="https://avatars.githubusercontent.com/irfnadi" width="225" height="225"/>
 </p>
